@@ -1,0 +1,31 @@
+.big {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.list {
+    font-size: 30px;
+}
+.small {
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.smaller {
+    font-size: 15px;
+}
+.container {
+    margin-bottom: 200px;
+    line-height: 150%;
+}
+br.big {
+    margin-bottom: 200px;
+}
+a:link {
+    color: #ff75ea;
+    font-size: 40px;
+}
+a:visited {
+    color: #ff75ea;
+}
+a:hover {
+    color: #f72fd9;
+}
