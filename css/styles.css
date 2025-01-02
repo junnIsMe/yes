@@ -1,6 +1,7 @@
 .big {
     font-size: 40px;
     margin-bottom: 50px;
+    font-weight: bold;
 }
 .list {
     font-size: 30px;
@@ -20,12 +21,16 @@ br.big {
     margin-bottom: 200px;
 }
 a:link {
-    color: #ff75ea;
+    color: #ff58e6;
     font-size: 40px;
 }
 a:visited {
-    color: #ff75ea;
+    color: #ff58e6;
 }
 a:hover {
-    color: #f72fd9;
+    color: #fc2bdc;
+}
+a.profile {
+    color:  white;
+    font-size: 100%;
 }
